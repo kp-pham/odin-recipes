@@ -1,6 +1,6 @@
 # odin-recipes
 
-This repository contains HTML documents for a recipe webstie. The website contains a homepage from which the user can access
+This repository contains HTML documents for a recipe website. The website contains a homepage from which the user can access
 pages for the recipes of traditional British dishes such as Bangers and Mash, Fish and Chips, and the English breakfast. The
 recipe pages contain a brief description of the dish, the ingredients needed for the recipe, and steps of the recipe.
 
