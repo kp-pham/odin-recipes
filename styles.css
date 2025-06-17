@@ -16,12 +16,12 @@
     width: 500px;
 }
 
-.image-content,
-.text-content {
-    display: inline-block;
+.list-item {
+    width: 500px;
+    height: 300px;
 }
 
 .image-content img {
-    width: 200px;
-    height: auto;
+    width: 100px;
+    height: 100px;
 }
