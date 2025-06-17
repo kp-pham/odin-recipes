@@ -9,6 +9,7 @@
     background-color: #0000FF;
     color: #FFFFFF;
     padding: 16px;
+    font-size: 25px;
     text-align: center;
 }
 
@@ -23,6 +24,7 @@
     width: 500px;
     padding: 20px;
     display: flex;
+    font-size: 20px;
     border-bottom: 2px solid #000000;
 }
 
@@ -57,6 +59,7 @@
 
 .recipe-heading {
     margin-top: 50px;
+    font-size: 20px;
     text-align: center;
 }
 
@@ -66,4 +69,5 @@
 
 .recipe-content div {
     margin: 20px auto;
+    font-size: 20px;
 }
