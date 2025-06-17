@@ -19,9 +19,17 @@
 .list-item {
     width: 500px;
     display: flex;
+    border-bottom: 2px solid #000000;
 }
 
 .image-content img {
     width: 100px;
     height: 100px;
+}
+
+.text-content {
+    width: 350px;
+    margin-left: 50px;
+    padding: 50px;
+    text-align: center;
 }
