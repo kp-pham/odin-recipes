@@ -10,3 +10,8 @@
     padding: 16px;
     text-align: center;
 }
+
+.recipes-list {
+    margin: 0 auto;
+    width: 500px;
+}
