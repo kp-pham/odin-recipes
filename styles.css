@@ -2,13 +2,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "Times New Roman", "Arial", "Verdana", sans-serif;
 }
 
 .title-heading {
     background-color: #0000FF;
     color: #FFFFFF;
     padding: 16px;
-    font-family: "Georgia", "Arial", "Verdana", sans-serif;
     text-align: center;
 }
 
@@ -62,4 +62,8 @@
 
 .recipe-content {
     margin: 50px;
+}
+
+.recipe-content div {
+    margin: 20px auto;
 }
