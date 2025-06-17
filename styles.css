@@ -8,6 +8,7 @@
     background-color: #0000FF;
     color: #FFFFFF;
     padding: 16px;
+    font-family: "Georgia", "Arial", "Verdana", sans-serif;
     text-align: center;
 }
 
@@ -48,5 +49,6 @@
 
 .list-item:hover {
     text-decoration: underline;
+    color: #FFFFFF;
     background-color: #0000FF;
 }
