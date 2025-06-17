@@ -71,3 +71,9 @@
     margin: 20px auto;
     font-size: 20px;
 }
+
+.description-text,
+.ingredients-list li, 
+.recipe-list, li {
+    margin: 10px auto;
+}
