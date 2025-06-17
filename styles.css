@@ -3,3 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.title-heading {
+    background-color: #0000FF;
+    color: #FFFFFF;
+    padding: 16px;
+    text-align: center;
+}
