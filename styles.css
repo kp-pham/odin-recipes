@@ -15,3 +15,13 @@
     margin: 0 auto;
     width: 500px;
 }
+
+.image-content,
+.text-content {
+    display: inline-block;
+}
+
+.image-content img {
+    width: 200px;
+    height: auto;
+}
