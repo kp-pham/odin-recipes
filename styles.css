@@ -7,6 +7,7 @@
 .title-heading {
     background-color: #0000FF;
     color: #FFFFFF;
+    margin-bottom: 50px;
     padding: 16px;
     font-family: "Georgia", "Arial", "Verdana", sans-serif;
     text-align: center;
@@ -15,6 +16,7 @@
 .recipes-list {
     margin: 0 auto;
     width: 500px;
+    border-top: 2px solid #000000;
 }
 
 .list-item {
