@@ -63,6 +63,11 @@
     text-align: center;
 }
 
+.recipe-heading img {
+    width: 400px;
+    height: 300px;
+}
+
 .recipe-content {
     margin-top: 50px;
     border-top: 2px solid #000000;
